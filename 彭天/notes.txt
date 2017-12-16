@@ -1,0 +1,17 @@
+notest for meeting in Nov 26
+1. 安装 ananconda, 下载安装包
+2. termninal
+
+3. 进入jupyter notebook
+3.1 选定文件夹
+3.2 使用jupyter notebook 进入
+
+什么是解析，什么是渲染
+
+inspect中文版
+
+
+id="results"的图
+
+正则表达式
+
