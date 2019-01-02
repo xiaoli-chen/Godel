@@ -15,3 +15,8 @@ https://medium.com/sweetmeat/how-to-keep-a-downstream-git-repository-current-wit
 
 # Uncertainty
 https://blog.evjang.com/2018/12/uncertainty.html
+
+
+# Keras
+### model entity embedding + model concate
+https://github.com/entron/entity-embedding-rossmann/blob/kaggle/models.py
