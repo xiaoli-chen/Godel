@@ -25,3 +25,9 @@ https://blog.evjang.com/2018/12/uncertainty.html
 
 # ODE
 https://blog.acolyer.org/2019/01/09/neural-ordinary-differential-equations/amp/?__twitter_impression=true
+
+
+
+# Practical Machine Learning
+* label encoding in sklearn and pandas
+https://www.back2code.me/2017/09/numeric-and-binary-encoders-in-python/ 
