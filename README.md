@@ -24,7 +24,7 @@ https://blog.evjang.com/2018/12/uncertainty.html
 
 
 # ODE
-https://blog.acolyer.org/2019/01/09/neural-ordinary-differential-equations/amp/?__twitter_impression=true
+https://blog.acolyer.org/2019/01/09/neural-ordinary-differential-equations/amp/
 
 
 
