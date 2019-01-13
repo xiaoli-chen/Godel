@@ -22,6 +22,10 @@ https://blog.evjang.com/2018/12/uncertainty.html
 * https://github.com/entron/entity-embedding-rossmann/blob/kaggle/models.py
 * https://towardsdatascience.com/decoded-entity-embeddings-of-categorical-variables-in-neural-networks-1d2468311635
 
+### add new layer based on pretained model
+* https://github.com/keras-team/keras/issues/3465
+
+
 
 # ODE
 https://blog.acolyer.org/2019/01/09/neural-ordinary-differential-equations/amp/
