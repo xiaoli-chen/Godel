@@ -36,3 +36,8 @@ https://blog.acolyer.org/2019/01/09/neural-ordinary-differential-equations/amp/
 # Practical Machine Learning
 * label encoding in sklearn and pandas
 https://www.back2code.me/2017/09/numeric-and-binary-encoders-in-python/ 
+
+
+# Deep Learning Theory
+* Stanford
+https://www.researchgate.net/project/Theories-of-Deep-Learning
