@@ -41,3 +41,6 @@ https://www.back2code.me/2017/09/numeric-and-binary-encoders-in-python/
 # Deep Learning Theory
 * Stanford
 https://www.researchgate.net/project/Theories-of-Deep-Learning
+
+# Bayesian Neural Nets
+* http://videolectures.net/DLRLsummerschool2018_wilson_bayesian_neural_nets/
