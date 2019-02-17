@@ -44,3 +44,6 @@ https://www.researchgate.net/project/Theories-of-Deep-Learning
 
 # Bayesian Neural Nets
 * http://videolectures.net/DLRLsummerschool2018_wilson_bayesian_neural_nets/
+
+# Recurrent Neural Nets
+* https://timcooijmans.blogspot.com/2019/02/on-variance-of-unbiased-online.html
