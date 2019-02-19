@@ -31,7 +31,9 @@ https://blog.evjang.com/2018/12/uncertainty.html
 # ODE
 https://blog.acolyer.org/2019/01/09/neural-ordinary-differential-equations/amp/
 
-
+# Math
+1. VAE
+* https://www.jeremyjordan.me/variational-autoencoders/
 
 # Practical Machine Learning
 * label encoding in sklearn and pandas
