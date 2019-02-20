@@ -49,3 +49,8 @@ https://www.researchgate.net/project/Theories-of-Deep-Learning
 
 # Recurrent Neural Nets
 * https://timcooijmans.blogspot.com/2019/02/on-variance-of-unbiased-online.html
+
+
+# Case Study
+1. CNN
+* https://www.planet.com/pulse/publications/convolutional-neural-networks-used-to-detect-and-classify-ships-in-dove-imagery/
