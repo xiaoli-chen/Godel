@@ -54,3 +54,8 @@ https://www.researchgate.net/project/Theories-of-Deep-Learning
 # Case Study
 1. CNN
 * https://www.planet.com/pulse/publications/convolutional-neural-networks-used-to-detect-and-classify-ships-in-dove-imagery/
+
+
+
+book:
+1. 中国传统地权制度及其
