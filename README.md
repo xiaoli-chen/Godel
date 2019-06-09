@@ -50,6 +50,9 @@ https://www.researchgate.net/project/Theories-of-Deep-Learning
 # Recurrent Neural Nets
 * https://timcooijmans.blogspot.com/2019/02/on-variance-of-unbiased-online.html
 
+# Autoencoder
+* https://yaledatascience.github.io/2016/10/29/autoencoders.html
+
 
 # Case Study
 1. CNN
