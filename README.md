@@ -52,7 +52,11 @@ https://www.researchgate.net/project/Theories-of-Deep-Learning
 
 # Autoencoder
 * https://yaledatascience.github.io/2016/10/29/autoencoders.html
+* https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/
 
+# GMM and EM
+* https://stephens999.github.io/fiveMinuteStats/intro_to_em.html
+* https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html
 
 # Case Study
 1. CNN
