@@ -62,7 +62,8 @@ https://www.researchgate.net/project/Theories-of-Deep-Learning
 1. CNN
 * https://www.planet.com/pulse/publications/convolutional-neural-networks-used-to-detect-and-classify-ships-in-dove-imagery/
 
-
+# Attention model
+* https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
 
 book:
 1. 中国传统地权制度及其
