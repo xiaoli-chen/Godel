@@ -66,5 +66,8 @@ https://www.researchgate.net/project/Theories-of-Deep-Learning
 # Attention model
 * https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
 
+Kaggle: upzip https://www.kaggle.com/c/diabetic-retinopathy-detection/discussion/45994
+
 book:
 1. 中国传统地权制度及其
+
