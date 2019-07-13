@@ -39,6 +39,8 @@ https://blog.acolyer.org/2019/01/09/neural-ordinary-differential-equations/amp/
 * label encoding in sklearn and pandas
 https://www.back2code.me/2017/09/numeric-and-binary-encoders-in-python/ 
 
+# Dropout:
+https://medium.com/@bingobee01/a-review-of-dropout-as-applied-to-rnns-72e79ecd5b7b
 
 # Deep Learning Theory
 * Stanford
