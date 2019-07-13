@@ -68,6 +68,9 @@ https://www.researchgate.net/project/Theories-of-Deep-Learning
 
 Kaggle: upzip https://www.kaggle.com/c/diabetic-retinopathy-detection/discussion/45994
 
+# Graph Neural nets:
+https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3
+
 book:
 1. 中国传统地权制度及其
 
